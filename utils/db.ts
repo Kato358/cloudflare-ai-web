@@ -94,6 +94,11 @@ export const textGenModels: Model[] = [{
     provider: 'workers-ai',
     type: 'chat'
 }, {
+    id: '@cf/deepseek-ai/deepseek-r1-distill-qwen-32b',
+    name: 'deepseek-r1-distill-qwen-32b',
+    provider: 'workers-ai',
+    type: 'chat'
+},{
     id: '@cf/openchat/openchat-3.5-0106',
     name: 'openchat-3.5-0106',
     provider: 'workers-ai',
